@@ -1,0 +1,5 @@
+<students>
+    <student name='刘备' sex='男' age='35'/>
+    <student name='吕布' sex='男' age='38'/>
+    <student name='貂蝉' sex='女' age='22'/>
+</students>
